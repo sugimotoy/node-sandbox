@@ -1,3 +1,3 @@
 // this is entry point
 
-console.log('hello world!');
+console.log('hello world! test');
